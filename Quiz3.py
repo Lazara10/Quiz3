@@ -5,7 +5,7 @@ import sqlite3
 url = "https://api-football-beta.p.rapidapi.com/players/topscorers"
 querystring = {"season": "2019", "league": '78'}
 headers = {
-    'x-rapidapi-key': "216fb76abbmsh1d9181870c82430p1b28b5jsn0eb9ad8b39a6",
+    'x-rapidapi-key': "7efeaaafe5msh27f84b0af03ea6ep1ea617jsn713be14dbceb",
     'x-rapidapi-host': "api-football-beta.p.rapidapi.com"
 }
 # კითხვა 1
